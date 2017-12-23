@@ -1,0 +1,19 @@
+fb58e0e - Nick, 4 minutes ago : Merge branch 'andrew' of https://github.com/AndrewKhusnulin/Project-Dark-Eye-1 into andrew
+a520076 - Nick, 7 minutes ago : Merge branch 'andrew' of https://github.com/nickeskov/Project-Dark-Eye
+076f045 - Андрей, 23 minutes ago : Add files via upload
+58545ad - Андрей, 57 minutes ago : Merge pull request #1 from AndrewKhusnulin/AndrewKhusnulin-patch-1
+c00ed5e - Андрей, 58 minutes ago : Добавлен сценарий,пофикшены баги.
+807194f - Zarimiro, 2 hours ago : Added 3 lvl(press home to access), main menu is better now
+ac6f058 - Zarimiro, 3 hours ago : Almost all junk removed
+ec2ab8d - Zarimiro, 4 hours ago : Approx 40% of junk removed
+795a8a2 - nickeskov, 14 hours ago : Merge pull request #2 from nickeskov/nickeskov
+9b0e038 - Nick, 14 hours ago : Fixed bug (unlimited running when changing scenes)
+abefb0e - Nick, 18 hours ago : Merge branch 'Zarimiro' of https://github.com/nickeskov/Project-Dark-Eye
+c7ff834 - Zarimiro, 18 hours ago : Fixed running, aberration is back, no more search text
+beda964 - Zarimiro, 20 hours ago : backspace to return to 1st level, no more screen blinking
+f327d5c - Zarimiro, 22 hours ago : deleted some junk in code, cheat to move to next level by using space button.(Check 381 line)
+449a2dc - Zarimiro, 22 hours ago : Deleted options button, author button now working
+f4cf3a9 - Андрей, 23 hours ago : Merge pull request #1 from nickeskov/Zarimiro
+87b6b85 - Zarimiro, 24 hours ago : Added lvl 2(now for sure)
+bdcf2f9 - Zarimiro, 24 hours ago : Added 2 lvl
+866fe2c - Nick, 2 days ago : first commit
